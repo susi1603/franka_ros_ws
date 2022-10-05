@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/airocs/franka_ros_ws/install/setup.sh
