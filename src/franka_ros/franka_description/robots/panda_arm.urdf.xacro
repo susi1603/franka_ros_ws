@@ -19,6 +19,8 @@
   </xacro:unless>
 
   <!--Fill after calibration-->
+  <!-- world to panda link_0-->
+  
   <link name="world" />
   <joint name="robot_joint" type="fixed">
     <origin xyz="0.478 -0.312 0.080" rpy="-0.019 0.016 1.619" />
